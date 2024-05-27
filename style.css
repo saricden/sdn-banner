@@ -31,8 +31,8 @@ body {
 }
 
 .slide iframe {
-  width: 500px;
-  height: 50px;
+  flex: 1;
+  height: 60px;
 }
 
 .slide p {
